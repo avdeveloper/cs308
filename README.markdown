@@ -1,10 +1,7 @@
-WebCal
-
-CS308 Introduction to Databases
-
-Prof. Frankl
-
-Final Project
+WebCal 
+CS308 Introduction to Databases 
+Prof. Frankl 
+Final Project 
 
 # Files
   - classes/query.php:  This class interacts with the database
